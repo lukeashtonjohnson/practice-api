@@ -1,0 +1,22 @@
+{
+  "name": "practice-api",
+  "version": "1.0.0",
+  "description": "practice-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukeashtonjohnson/practice-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukeashtonjohnson/practice-api/issues"
+  },
+  "homepage": "https://github.com/lukeashtonjohnson/practice-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
